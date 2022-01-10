@@ -1,0 +1,389 @@
+C:\LAPTRINHWINDOW\DOANCUOIKI\BÁOCAOCUOIKI1\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.exe.config
+C:\LAPTRINHWINDOW\DOANCUOIKI\BÁOCAOCUOIKI1\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.exe
+C:\LAPTRINHWINDOW\DOANCUOIKI\BÁOCAOCUOIKI1\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.pdb
+C:\LAPTRINHWINDOW\DOANCUOIKI\BÁOCAOCUOIKI1\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.AssemblyReference.cache
+C:\LAPTRINHWINDOW\DOANCUOIKI\BÁOCAOCUOIKI1\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Splash.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\BÁOCAOCUOIKI1\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Properties.Resources.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\BÁOCAOCUOIKI1\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.SanBayTbl.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\BÁOCAOCUOIKI1\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Home.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\BÁOCAOCUOIKI1\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.GenerateResource.cache
+C:\LAPTRINHWINDOW\DOANCUOIKI\BÁOCAOCUOIKI1\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.CoreCompileInputs.cache
+C:\LAPTRINHWINDOW\DOANCUOIKI\BÁOCAOCUOIKI1\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.exe
+C:\LAPTRINHWINDOW\DOANCUOIKI\BÁOCAOCUOIKI1\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.pdb
+C:\LAPTRINHWINDOW\DOANCUOIKI\BÁOCAOCUOIKI1\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.TuyenBayTbl.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\BÁOCAOCUOIKI1\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.ChuyenBayTbl.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\BÁOCAOCUOIKI1\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.KhachHang.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\BAOCAOCUOIKI2\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.exe.config
+C:\LAPTRINHWINDOW\DOANCUOIKI\BAOCAOCUOIKI2\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.exe
+C:\LAPTRINHWINDOW\DOANCUOIKI\BAOCAOCUOIKI2\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.pdb
+C:\LAPTRINHWINDOW\DOANCUOIKI\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.AssemblyReference.cache
+C:\LAPTRINHWINDOW\DOANCUOIKI\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.ChuyenBayTbl.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.KhachHang.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Properties.Resources.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.SanBayTbl.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Home.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.TuyenBayTbl.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.GenerateResource.cache
+C:\LAPTRINHWINDOW\DOANCUOIKI\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.CoreCompileInputs.cache
+C:\LAPTRINHWINDOW\DOANCUOIKI\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.exe
+C:\LAPTRINHWINDOW\DOANCUOIKI\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.pdb
+C:\LAPTRINHWINDOW\DOANCUOIKI\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DoanhThuTbl.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DatChoTbl.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Splash.resources
+C:\Users\THANH\OneDrive\Máy tính\BAOCAOCUOIKI2\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.exe.config
+C:\Users\THANH\OneDrive\Máy tính\BAOCAOCUOIKI2\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.exe
+C:\Users\THANH\OneDrive\Máy tính\BAOCAOCUOIKI2\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.pdb
+C:\Users\THANH\OneDrive\Máy tính\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.AssemblyReference.cache
+C:\Users\THANH\OneDrive\Máy tính\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.SuggestedBindingRedirects.cache
+C:\Users\THANH\OneDrive\Máy tính\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.ChuyenBayTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DoanhThuTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.KhachHang.resources
+C:\Users\THANH\OneDrive\Máy tính\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DatChoTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Properties.Resources.resources
+C:\Users\THANH\OneDrive\Máy tính\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.SanBayTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Home.resources
+C:\Users\THANH\OneDrive\Máy tính\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Splash.resources
+C:\Users\THANH\OneDrive\Máy tính\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.TuyenBayTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.GenerateResource.cache
+C:\Users\THANH\OneDrive\Máy tính\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.CoreCompileInputs.cache
+C:\Users\THANH\OneDrive\Máy tính\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.exe
+C:\Users\THANH\OneDrive\Máy tính\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.pdb
+C:\Users\THANH\OneDrive\Máy tính\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhDatCho.resources
+C:\Users\THANH\OneDrive\Máy tính\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhKhachHang.resources
+C:\Users\g\Desktop\BAOCAOCUOIKI2\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.exe.config
+C:\Users\g\Desktop\BAOCAOCUOIKI2\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.exe
+C:\Users\g\Desktop\BAOCAOCUOIKI2\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.pdb
+C:\Users\g\Desktop\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.AssemblyReference.cache
+C:\Users\g\Desktop\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.ChuyenBayTbl.resources
+C:\Users\g\Desktop\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DoanhThuTbl.resources
+C:\Users\g\Desktop\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.KhachHang.resources
+C:\Users\g\Desktop\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DatChoTbl.resources
+C:\Users\g\Desktop\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Properties.Resources.resources
+C:\Users\g\Desktop\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhDatCho.resources
+C:\Users\g\Desktop\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhKhachHang.resources
+C:\Users\g\Desktop\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.SanBayTbl.resources
+C:\Users\g\Desktop\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Home.resources
+C:\Users\g\Desktop\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Splash.resources
+C:\Users\g\Desktop\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.TuyenBayTbl.resources
+C:\Users\g\Desktop\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.GenerateResource.cache
+C:\Users\g\Desktop\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.CoreCompileInputs.cache
+C:\Users\g\Desktop\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.exe
+C:\Users\g\Desktop\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.pdb
+C:\Users\g\Desktop\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.login.resources
+C:\Users\THANH\OneDrive\Máy tính\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.login.resources
+C:\Users\THANH\OneDrive\Máy tính\BAOCAOCUOIKI2\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DoiMatKhau.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKYLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.exe.config
+C:\Users\THANH\OneDrive\Máy tính\CUOIKYLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.exe
+C:\Users\THANH\OneDrive\Máy tính\CUOIKYLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.pdb
+C:\Users\THANH\OneDrive\Máy tính\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.AssemblyReference.cache
+C:\Users\THANH\OneDrive\Máy tính\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.SuggestedBindingRedirects.cache
+C:\Users\THANH\OneDrive\Máy tính\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.ChuyenBayTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DoanhThuTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DoiMatKhau.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.KhachHang.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DatChoTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.login.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Properties.Resources.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhDatCho.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhKhachHang.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.SanBayTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Home.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Splash.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.TuyenBayTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.GenerateResource.cache
+C:\Users\THANH\OneDrive\Máy tính\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.CoreCompileInputs.cache
+C:\Users\THANH\OneDrive\Máy tính\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.exe
+C:\Users\THANH\OneDrive\Máy tính\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.pdb
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.exe.config
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.exe
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.pdb
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.AssemblyReference.cache
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.SuggestedBindingRedirects.cache
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.ChuyenBayTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DoanhThuTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DoiMatKhau.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.KhachHang.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DatChoTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.login.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Properties.Resources.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhDatCho.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhKhachHang.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.SanBayTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Home.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Splash.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.TuyenBayTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.GenerateResource.cache
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.CoreCompileInputs.cache
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.exe
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.pdb
+C:\Users\Admin\Downloads\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.exe.config
+C:\Users\Admin\Downloads\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.exe
+C:\Users\Admin\Downloads\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.pdb
+C:\Users\Admin\Downloads\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.ChuyenBayTbl.resources
+C:\Users\Admin\Downloads\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DoanhThuTbl.resources
+C:\Users\Admin\Downloads\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DoiMatKhau.resources
+C:\Users\Admin\Downloads\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.KhachHang.resources
+C:\Users\Admin\Downloads\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DatChoTbl.resources
+C:\Users\Admin\Downloads\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.login.resources
+C:\Users\Admin\Downloads\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Properties.Resources.resources
+C:\Users\Admin\Downloads\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhDatCho.resources
+C:\Users\Admin\Downloads\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhKhachHang.resources
+C:\Users\Admin\Downloads\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.SanBayTbl.resources
+C:\Users\Admin\Downloads\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Home.resources
+C:\Users\Admin\Downloads\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Splash.resources
+C:\Users\Admin\Downloads\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.TuyenBayTbl.resources
+C:\Users\Admin\Downloads\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.exe
+C:\Users\Admin\Downloads\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.pdb
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.exe.config
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.exe
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.pdb
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.AssemblyReference.cache
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.SuggestedBindingRedirects.cache
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.ChuyenBayTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DoanhThuTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DoiMatKhau.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.KhachHang.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DatChoTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.login.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Properties.Resources.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhDatCho.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhKhachHang.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.SanBayTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Home.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Splash.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.TuyenBayTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.GenerateResource.cache
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.CoreCompileInputs.cache
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.exe
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKY\CUOIKYLTWD\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.pdb
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.exe.config
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.exe
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.pdb
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.AssemblyReference.cache
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.SuggestedBindingRedirects.cache
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.ChuyenBayTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DoanhThuTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DoiMatKhau.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.KhachHang.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DatChoTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.login.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Properties.Resources.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhDatCho.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhKhachHang.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.SanBayTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Home.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Splash.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.TuyenBayTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.GenerateResource.cache
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.CoreCompileInputs.cache
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.exe
+C:\Users\THANH\OneDrive\Máy tính\CUOIKY\CUOIKYLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.pdb
+C:\Users\THANH\OneDrive\Máy tính\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.exe.config
+C:\Users\THANH\OneDrive\Máy tính\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.exe
+C:\Users\THANH\OneDrive\Máy tính\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.pdb
+C:\Users\THANH\OneDrive\Máy tính\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.AssemblyReference.cache
+C:\Users\THANH\OneDrive\Máy tính\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.SuggestedBindingRedirects.cache
+C:\Users\THANH\OneDrive\Máy tính\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.ChuyenBayTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DoanhThuTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DoiMatKhau.resources
+C:\Users\THANH\OneDrive\Máy tính\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.KhachHang.resources
+C:\Users\THANH\OneDrive\Máy tính\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DatChoTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.login.resources
+C:\Users\THANH\OneDrive\Máy tính\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Properties.Resources.resources
+C:\Users\THANH\OneDrive\Máy tính\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhDatCho.resources
+C:\Users\THANH\OneDrive\Máy tính\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhKhachHang.resources
+C:\Users\THANH\OneDrive\Máy tính\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.SanBayTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Home.resources
+C:\Users\THANH\OneDrive\Máy tính\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Splash.resources
+C:\Users\THANH\OneDrive\Máy tính\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.TuyenBayTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.GenerateResource.cache
+C:\Users\THANH\OneDrive\Máy tính\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.CoreCompileInputs.cache
+C:\Users\THANH\OneDrive\Máy tính\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.exe
+C:\Users\THANH\OneDrive\Máy tính\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.pdb
+C:\LAPTRINHWINDOW\DOANCUOIKI\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.exe.config
+C:\LAPTRINHWINDOW\DOANCUOIKI\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.exe
+C:\LAPTRINHWINDOW\DOANCUOIKI\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.pdb
+C:\LAPTRINHWINDOW\DOANCUOIKI\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.AssemblyReference.cache
+C:\LAPTRINHWINDOW\DOANCUOIKI\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.SuggestedBindingRedirects.cache
+C:\LAPTRINHWINDOW\DOANCUOIKI\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.ChuyenBayTbl.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DoanhThuTbl.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DoiMatKhau.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.KhachHang.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DatChoTbl.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.login.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Properties.Resources.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhDatCho.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhKhachHang.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.SanBayTbl.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Home.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Splash.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.TuyenBayTbl.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.GenerateResource.cache
+C:\LAPTRINHWINDOW\DOANCUOIKI\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.CoreCompileInputs.cache
+C:\LAPTRINHWINDOW\DOANCUOIKI\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.exe
+C:\LAPTRINHWINDOW\DOANCUOIKI\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.pdb
+C:\LAPTRINHWINDOW\DOANCUOIKI\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhChuyenBay.resources
+C:\Users\THANH\OneDrive\Máy tính\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.exe.config
+C:\Users\THANH\OneDrive\Máy tính\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.exe
+C:\Users\THANH\OneDrive\Máy tính\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.pdb
+C:\Users\THANH\OneDrive\Máy tính\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.AssemblyReference.cache
+C:\Users\THANH\OneDrive\Máy tính\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.SuggestedBindingRedirects.cache
+C:\Users\THANH\OneDrive\Máy tính\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.ChuyenBayTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DoanhThuTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DoiMatKhau.resources
+C:\Users\THANH\OneDrive\Máy tính\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.KhachHang.resources
+C:\Users\THANH\OneDrive\Máy tính\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DatChoTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.login.resources
+C:\Users\THANH\OneDrive\Máy tính\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Properties.Resources.resources
+C:\Users\THANH\OneDrive\Máy tính\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhChuyenBay.resources
+C:\Users\THANH\OneDrive\Máy tính\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhDatCho.resources
+C:\Users\THANH\OneDrive\Máy tính\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhKhachHang.resources
+C:\Users\THANH\OneDrive\Máy tính\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.SanBayTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Home.resources
+C:\Users\THANH\OneDrive\Máy tính\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Splash.resources
+C:\Users\THANH\OneDrive\Máy tính\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.TuyenBayTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.GenerateResource.cache
+C:\Users\THANH\OneDrive\Máy tính\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.CoreCompileInputs.cache
+C:\Users\THANH\OneDrive\Máy tính\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.exe
+C:\Users\THANH\OneDrive\Máy tính\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.pdb
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.exe.config
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.exe
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.pdb
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.AssemblyReference.cache
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.SuggestedBindingRedirects.cache
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.ChuyenBayTbl.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DoanhThuTbl.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DoiMatKhau.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.KhachHang.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DatChoTbl.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.login.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Properties.Resources.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhChuyenBay.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhDatCho.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhKhachHang.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.SanBayTbl.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Home.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Splash.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.TuyenBayTbl.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.GenerateResource.cache
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.CoreCompileInputs.cache
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.exe
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.pdb
+C:\Users\THANH\OneDrive\Máy tính\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.exe.config
+C:\Users\THANH\OneDrive\Máy tính\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.exe
+C:\Users\THANH\OneDrive\Máy tính\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.pdb
+C:\Users\THANH\OneDrive\Máy tính\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.AssemblyReference.cache
+C:\Users\THANH\OneDrive\Máy tính\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.SuggestedBindingRedirects.cache
+C:\Users\THANH\OneDrive\Máy tính\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.ChuyenBayTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DoanhThuTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DoiMatKhau.resources
+C:\Users\THANH\OneDrive\Máy tính\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.KhachHang.resources
+C:\Users\THANH\OneDrive\Máy tính\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DatChoTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.login.resources
+C:\Users\THANH\OneDrive\Máy tính\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Properties.Resources.resources
+C:\Users\THANH\OneDrive\Máy tính\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhChuyenBay.resources
+C:\Users\THANH\OneDrive\Máy tính\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhDatCho.resources
+C:\Users\THANH\OneDrive\Máy tính\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhKhachHang.resources
+C:\Users\THANH\OneDrive\Máy tính\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.SanBayTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Home.resources
+C:\Users\THANH\OneDrive\Máy tính\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Splash.resources
+C:\Users\THANH\OneDrive\Máy tính\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.TuyenBayTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.GenerateResource.cache
+C:\Users\THANH\OneDrive\Máy tính\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.CoreCompileInputs.cache
+C:\Users\THANH\OneDrive\Máy tính\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.exe
+C:\Users\THANH\OneDrive\Máy tính\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.pdb
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.exe.config
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.exe
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.pdb
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.AssemblyReference.cache
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.SuggestedBindingRedirects.cache
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.ChuyenBayTbl.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DoanhThuTbl.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DoiMatKhau.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.KhachHang.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DatChoTbl.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.login.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Properties.Resources.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhChuyenBay.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhDatCho.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhKhachHang.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.SanBayTbl.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Home.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Splash.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.TuyenBayTbl.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.GenerateResource.cache
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.CoreCompileInputs.cache
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.exe
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.pdb
+C:\Users\THANH\OneDrive\Máy tính\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.exe.config
+C:\Users\THANH\OneDrive\Máy tính\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.exe
+C:\Users\THANH\OneDrive\Máy tính\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.pdb
+C:\Users\THANH\OneDrive\Máy tính\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.AssemblyReference.cache
+C:\Users\THANH\OneDrive\Máy tính\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.SuggestedBindingRedirects.cache
+C:\Users\THANH\OneDrive\Máy tính\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.ChuyenBayTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DoanhThuTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DoiMatKhau.resources
+C:\Users\THANH\OneDrive\Máy tính\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.KhachHang.resources
+C:\Users\THANH\OneDrive\Máy tính\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DatChoTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.login.resources
+C:\Users\THANH\OneDrive\Máy tính\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Properties.Resources.resources
+C:\Users\THANH\OneDrive\Máy tính\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhChuyenBay.resources
+C:\Users\THANH\OneDrive\Máy tính\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhDatCho.resources
+C:\Users\THANH\OneDrive\Máy tính\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhKhachHang.resources
+C:\Users\THANH\OneDrive\Máy tính\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.SanBayTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Home.resources
+C:\Users\THANH\OneDrive\Máy tính\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Splash.resources
+C:\Users\THANH\OneDrive\Máy tính\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.TuyenBayTbl.resources
+C:\Users\THANH\OneDrive\Máy tính\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.GenerateResource.cache
+C:\Users\THANH\OneDrive\Máy tính\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.CoreCompileInputs.cache
+C:\Users\THANH\OneDrive\Máy tính\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.exe
+C:\Users\THANH\OneDrive\Máy tính\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.pdb
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.exe.config
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.exe
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.pdb
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.AssemblyReference.cache
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.SuggestedBindingRedirects.cache
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.ChuyenBayTbl.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DoanhThuTbl.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DoiMatKhau.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.KhachHang.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DatChoTbl.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.login.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Properties.Resources.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhChuyenBay.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhDatCho.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhKhachHang.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.SanBayTbl.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Home.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Splash.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.TuyenBayTbl.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.GenerateResource.cache
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.CoreCompileInputs.cache
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.exe
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi1\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.pdb
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi2\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.exe.config
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi2\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.exe
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi2\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\bin\Debug\BAOCAOCUOIKI1.pdb
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi2\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.AssemblyReference.cache
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi2\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.SuggestedBindingRedirects.cache
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi2\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.ChuyenBayTbl.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi2\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DoanhThuTbl.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi2\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DoiMatKhau.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi2\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.KhachHang.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi2\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.DatChoTbl.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi2\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.login.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi2\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Properties.Resources.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi2\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhChuyenBay.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi2\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhDatCho.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi2\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.QuyDinhKhachHang.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi2\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.SanBayTbl.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi2\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Home.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi2\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.Splash.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi2\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.TuyenBayTbl.resources
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi2\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.GenerateResource.cache
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi2\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.csproj.CoreCompileInputs.cache
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi2\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.exe
+C:\LAPTRINHWINDOW\DOANCUOIKI\windowmoi2\windowmoi3\windowmoi1\window moi\BaoCaoCuoiKyLTWD\BAOCAOCUOIKI1\obj\Debug\BAOCAOCUOIKI1.pdb
